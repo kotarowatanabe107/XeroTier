@@ -33,10 +33,3 @@ Read a detailed background on this project <a href="https://medium.com/p/be423d3
 Explore the github repo: [https://github.com/rjaus/XeroTierion](https://github.com/rjaus/XeroTierion)
 
 Read the full blog post on medium: [https://medium.com/p/be423d39380b](https://medium.com/p/be423d39380b)
-
-### Project created by Riley James
-
-*   Twitter: [https://twitter.com/RileyJamesAU](https://twitter.com/RileyJamesAU)
-*   Medium: [https://medium.com/@riley.james](https://medium.com/@riley.james)
-*   Github: [https://github.com/rjaus](https://github.com/rjaus)
-*   Linkedin: [https://www.linkedin.com/in/rileyjames/](https://www.linkedin.com/in/rileyjames/)
