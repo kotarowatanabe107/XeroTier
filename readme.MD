@@ -29,7 +29,3 @@ Read a detailed background on this project <a href="https://medium.com/p/be423d3
 *   Tierion: [https://tierion.com/](https://tierion.com/)
 *   Chainpoint: [https://chainpoint.org/](https://chainpoint.org/)
 *   Xero Node SDK: [https://github.com/XeroAPI/xero-node](https://github.com/XeroAPI/xero-node)
-
-Explore the github repo: [https://github.com/rjaus/XeroTierion](https://github.com/rjaus/XeroTierion)
-
-Read the full blog post on medium: [https://medium.com/p/be423d39380b](https://medium.com/p/be423d39380b)
